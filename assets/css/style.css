@@ -121,13 +121,13 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-size: 14px;
+  font-size: 18px;
   color: #adc7de;
   white-space: nowrap;
   transition: 0.3s;
 }
 .navbar a i, .navbar a:focus i {
-  font-size: 12px;
+  font-size: 18px;
   line-height: 0;
   margin-left: 5px;
 }
@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .dropdown ul {
   display: block;
   position: absolute;
-  left: 14px;
+  left: 18px;
   top: calc(100% + 30px);
   margin: 0;
   padding: 10px 0;
@@ -166,13 +166,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .dropdown ul a {
   padding: 10px 20px;
-  font-size: 14px;
+  font-size: 18px;
   text-transform: none;
   font-weight: 500;
   color: #3e6f9b;
 }
 .navbar .dropdown ul a i {
-  font-size: 12px;
+  font-size: 18px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
   color: #fdc134;
@@ -432,7 +432,7 @@ section {
   list-style: none;
   padding: 0;
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 .breadcrumbs ol li + li {
   padding-left: 10px;
@@ -508,7 +508,7 @@ section {
   color: #fdc134;
 }
 .about .content .icon-box p {
-  font-size: 15px;
+  font-size: 18px;
   color: #848484;
   margin-left: 60px;
 }
@@ -564,6 +564,7 @@ section {
 }
 .services .card-title {
   font-weight: 700;
+  font-size: 18pt;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -573,6 +574,7 @@ section {
 }
 .services .card-text {
   color: #5e5e5e;
+  font-size: 16pt;
 }
 .services .read-more a {
   color: #777777;
@@ -794,6 +796,7 @@ section {
   margin-bottom: 15px;
   overflow: hidden;
   min-height: 260px;
+  shape-margin: 50%;
 }
 .team .member .pic img {
   min-width: 200px;
@@ -808,7 +811,7 @@ section {
 }
 .team .member span {
   display: block;
-  font-size: 16px;
+  font-size: 16pt;
 }
 .team .member .social {
   margin-top: 15px;
