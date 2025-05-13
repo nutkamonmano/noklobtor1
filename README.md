@@ -5,6 +5,6 @@ Used HTML, CSS, JS (Main Language to develop)
 
 Contributors
 
-Nutkamon Manosatcharak @nutkamonmano
-Sopida Chiangsaen @Sopida145
-Thanaphat Mothong @thanaphat2547
+1. Nutkamon Manosatcharak @nutkamonmano
+2. Sopida Chiangsaen @Sopida145
+3. Thanaphat Mothong @thanaphat2547
